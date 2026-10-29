@@ -10,7 +10,7 @@
 
 ## 📈 El ecualizador de verdad
 
-<p align="center"><img src="assets/commits.svg" width="100%" alt="Mis commits por semana en el último año"></p>
+<p align="center"><img src="assets/actividad.svg" width="100%" alt="Mis commits por semana en el último año"></p>
 
 <sub>Cuenta mis commits en todos mis repos, públicos y privados, más los que hice en SVN Designs.</sub>
 
