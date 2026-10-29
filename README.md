@@ -1,4 +1,4 @@
-<p align="center"><img src="assets/escenario.svg" width="100%" alt="Lobo Suelto Records, en vivo desde Bahía Blanca"></p>
+<p align="center"><img src="assets/portada.jpg" width="100%" alt="Portada"></p>
 
 <p align="center">
   <picture>
@@ -8,9 +8,11 @@
   </picture>
 </p>
 
-<p align="center"><sub><b>LOBO SUELTO RECORDS</b> · LSR-956 · una división de Cordero Atado S.R.L.</sub></p>
+## 📈 El ecualizador de verdad
 
-<p align="center"><img src="assets/ecualizador.svg" width="100%" alt=""></p>
+<p align="center"><img src="assets/commits.svg" width="100%" alt="Mis commits por semana en el último año"></p>
+
+<sub>Cuenta mis commits en todos mis repos, públicos y privados, más los que hice en SVN Designs.</sub>
 
 ## 🐺 Lobo suelto
 
@@ -35,84 +37,6 @@
                            Banda:    guitarra en Roma En Clovery
                            Pedales:  DS-1 > OS-2 > CH-1 > MDT
                            Sonando:  Oasis · Los Redondos · el Indio
-```
-
-## 💿 Definitely Deploy
-
-<p align="center"><img src="assets/vinilo-a.svg" width="170" alt="Vinilo del Lado A girando"></p>
-
-```text
-╔════════════════════════════════════════╗
-║  LOBO SUELTO RECORDS   LSR-956 · 2026  ║
-║  D E F I N I T E L Y   D E P L O Y     ║
-║  doce temas en producción      33 RPM  ║
-╚════════════════════════════════════════╝
-
- LADO A
- ─────────────────────────────────────────
-  A1  * Nova Padel .................. 7:30
-        feat. JavaScript, Firebase & FCM
-  A2  * Mi Mundial  (single) ........ 8:32
-        feat. Next.js, Supabase & PL/pgSQL
-  A3  * Casos SPS ................... 5:03
-        feat. JavaScript, Firestore & PWA
-  A4  * CFO Agéntico ................ 5:16
-        feat. Firebase, QR de AFIP & OCR
-  A5  * Percha ...................... 5:26
-        feat. Claude (catálogo) & clima
-  A6  * Stock Depósito .............. 5:29
-        feat. Next.js, Firestore & QR
-  A7  * Flight 956 .................. 6:00
-        feat. React, TypeScript & Leaflet
-  A8  * Mockups (en equipo) ......... 3:33
-        feat. Node, OpenAI & SVN Designs
-  A9  * Gestión Colectivos .......... 4:22
-        feat. React, Firestore & push
-  A10   Activá Juventudes ........... 5:03
-        feat. HTML, CSS & 38 PRs
-  A11 * Fixtura ..................... 5:04
-        feat. JavaScript & Firebase
-  A12   calendariojuli .............. 3:22
-        feat. HTML & CSS
- ─── duración total 1:04:40 ──────────────
-
-  * repo privado: se escucha en vivo,
-    el master no se presta.
-  duración = √(kB de código)/4 + 1:30
-```
-
-<p align="center"><img src="assets/vinilo-b.svg" width="140" alt="Vinilo del Lado B girando"></p>
-
-```text
-╔════════════════════════════════════════╗
-║  LOBO SUELTO RECORDS        LSR-956-B  ║
-║  T H E   M A S T E R P L A N           ║
-║  (o el Momo Sampler)  demos y rarezas  ║
-╚════════════════════════════════════════╝
-
- LADO B
- ─────────────────────────────────────────
-  B1    Tocadiscos (demo) ........... 3:15
-        feat. Electron & Spotify
-  B2    De regreso al Indio ......... 4:01
-        feat. drag & drop & planilla
-  B3    MapeoRS (ensayo) ............ 4:22
-        feat. un solo HTML
-  B4  * Seguimiento PEC ............. 4:21
-        feat. React, Vite & Firestore
-  B5  * Flyers SPS .................. 3:34
-        feat. HTML & Firebase
-  B6    Decime la Verdad (maqueta) .. 4:31
-        feat. HTML, CSS & JS
-  B7  * Picadito (sin letra) ........ 1:30
-        feat. solo la partitura
-  B8    EDD tengo que aprobar ....... 6:05
-        feat. Java, a dúo
-  B9  * GestoTickets ................ 3:29
-        feat. HTML & Firebase
-  B10   Club del Espectador ......... 3:38
-        feat. HTML & CSS
- ─── duración total 38:46 ────────────────
 ```
 
 <p align="center"><img src="assets/ecualizador.svg" width="100%" alt=""></p>
@@ -298,7 +222,7 @@ PARTITURAS
 
 SESIONISTA PRINCIPAL
   Claude Code a diario, de idea a deploy
-  en: todo este disco
+  en: todo este perfil
 
 INGENIERÍA DE DATOS
   reglas como backend, transacciones, SQL

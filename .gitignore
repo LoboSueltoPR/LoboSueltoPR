@@ -1,3 +1,5 @@
 preview.html
 .gen_readme.py
 .gen_svgs.py
+.gen_commits_svg.py
+.commits.py
